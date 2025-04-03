@@ -1,5 +1,7 @@
 # ReneWind-Turbine-Failure-Prediction-Model-Tuning-and-Optimization
 
+![windturbine](https://github.com/user-attachments/assets/7cf4fbec-abc3-43d5-847a-f4d6ead38367)
+
 ### Business Context
 
 Renewable energy sources play a crucial role in the global energy mix, with `wind energy` being one of the most developed and widely adopted technologies worldwide. The U.S. Department of Energy promotes `predictive maintenance` to enhance operational efficiency.<br>
